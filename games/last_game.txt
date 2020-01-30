@@ -1,0 +1,3 @@
+housework
+"h", "o", "u"
+5
